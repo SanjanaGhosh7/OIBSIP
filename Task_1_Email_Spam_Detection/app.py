@@ -1,3 +1,4 @@
+import os
 import streamlit as st
 import pickle
 import nltk
@@ -5,16 +6,23 @@ import re
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 
+# Get absolute path of current file
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# Paths to saved artifacts
+model_path = os.path.join(BASE_DIR, "model.pkl")
+tfidf_path = os.path.join(BASE_DIR, "tfidf.pkl")
+
+# Load saved model and vectorizer
+with open(model_path, "rb") as f:
+    model = pickle.load(f)
+
+with open(tfidf_path, "rb") as f:
+    tfidf = pickle.load(f)
+
 # Download required NLTK resources
 nltk.download('punkt')
 nltk.download('stopwords')
-
-# Load saved model and vectorizer
-with open("model.pkl", "rb") as f:
-    model = pickle.load(f)
-
-with open("tfidf.pkl", "rb") as f:
-    tfidf = pickle.load(f)
 
 # Initialize stemmer and stopwords
 ps = PorterStemmer()
