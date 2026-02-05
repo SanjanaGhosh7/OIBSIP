@@ -22,7 +22,7 @@ Each task is organized in its own folder with datasets, notebooks, and documenta
  
  ###### **👩‍🔬 Author: Sanjana Ghosh**
 
-###### **📍 Field: Bioinformatics | Machine Learning | Data Analysis **
+###### **📍 Field: Bioinformatics | Machine Learning | Data Analysis**
 
 ###### [LinkedIn](www.linkedin.com/in/sanjana-ghosh-2a5b7c11d) | sanjanaghosh150@gmail.com | [Medium](www.medium.com/@sanjanaghosh25)
 
