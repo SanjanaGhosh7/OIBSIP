@@ -16,3 +16,13 @@ This repository contains all the projects completed as part of the **AICTE Oasis
 
 
 Each task is organized in its own folder with datasets, notebooks, and documentation.
+
+
+## 📬 Contact
+ 
+ ###### **👩‍🔬 Author: Sanjana Ghosh**
+
+###### **📍 Field: Bioinformatics | Machine Learning | Data Analysis **
+
+###### [LinkedIn](www.linkedin.com/in/sanjana-ghosh-2a5b7c11d) | sanjanaghosh150@gmail.com | [Medium](www.medium.com/@sanjanaghosh25)
+
