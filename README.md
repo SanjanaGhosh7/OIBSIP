@@ -7,10 +7,11 @@ This repository contains all the projects completed as part of the **AICTE Oasis
 ### Task 1: Email Spam Detection
 - Built a machine learning model to classify emails as spam or ham
 - Used text preprocessing, TF-IDF vectorization, and Naive Bayes
-- Deployed the model using Streamlit
 
 ### Task 2: Sales Prediction
-
+- Build a **machine learning model** to predict sales using advertising data  
+- Understand the relationship between advertising spend and sales  
+- Evaluate model performance using standard regression metrics
 
 ### Task 3: Car Price Prediction
 
