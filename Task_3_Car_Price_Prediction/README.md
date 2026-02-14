@@ -1,6 +1,6 @@
 # 🚗 Task 3: Car Price Prediction using Machine Learning
 
-**OIBSIP – Task 2**
+**OIBSIP – Task 3**
 
 # 📌 Problem Statement
 
