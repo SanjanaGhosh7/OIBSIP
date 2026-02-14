@@ -2,6 +2,8 @@
 
 This repository contains all the projects completed as part of the **AICTE Oasis Infobyte Data Science Internship**.
 
+## Dataset used from Kaggle
+
 ## Projects Included
 
 ### Task 1: Email Spam Detection
@@ -14,6 +16,15 @@ This repository contains all the projects completed as part of the **AICTE Oasis
 - Evaluate model performance using standard regression metrics
 
 ### Task 3: Car Price Prediction
+- Build multiple regression models for price prediction.
+
+- Compare performance using evaluation metrics (MAE, RMSE, R²).
+
+- Apply log transformation to handle skewness in the target variable.
+
+- Perform model validation
+
+- Select the best-performing and most interpretable final model.
 
 
 Each task is organized in its own folder with datasets, notebooks, and documentation.
@@ -25,5 +36,5 @@ Each task is organized in its own folder with datasets, notebooks, and documenta
 
 ###### **📍 Field: Bioinformatics | Machine Learning | Data Analysis**
 
-###### [LinkedIn](www.linkedin.com/in/sanjana-ghosh-2a5b7c11d) | sanjanaghosh150@gmail.com | [Medium](www.medium.com/@sanjanaghosh25)
+###### [LinkedIn](https://www.linkedin.com/in/sanjana-ghosh-2a5b7c11d/) | sanjanaghosh150@gmail.com | [Medium](https://medium.com/@sanjanaghosh25)
 
